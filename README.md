@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋">,I'm Joaquín Machuca</h1>
+<h1 align="center">Hi👋,I'm Joaquín Machuca</h1>
 <h2 align="center">Aspiring Full Stack Developer 😉</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/FullStack-000000?style=for-the-badge" alt="FullStack logo">
